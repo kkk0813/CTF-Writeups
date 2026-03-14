@@ -8,7 +8,7 @@ This repository serves as a personal knowledge base and a portfolio of my practi
 
 | Challenge / Lab | Platform | Category | Concepts Covered | Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Pachinko** | picoCTF | Web Exploitation | Race Conditions, Node.js, Source Code Review | [View](./picoCTF/Web_Exploitation/Pachinko/) |
+| **Pachinko** | picoCTF | Web Exploitation | Race Conditions, Node.js, Source Code Review | [View](https://play.picoctf.org/practice?category=1&difficulty=2&page=1&search=pachinko) |
 
 ---
 *Organized and maintained for continuous learning.*
