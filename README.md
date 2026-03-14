@@ -1,2 +1,14 @@
-PicoCTF challenges solved:
-1. Pachinko (Difficulty: Medium, Category: Web Exploitation, Finish date: 14/3/2026)
+# Cybersecurity Practice & CTF Write-ups
+
+Welcome to my central repository for Capture The Flag (CTF) write-ups, vulnerability research, and security lab documentation. 
+
+This repository serves as a personal knowledge base and a portfolio of my practical experience in identifying, exploiting, and mitigating security vulnerabilities across different domains.
+
+## 🏆 Challenge Index
+
+| Challenge / Lab | Platform | Category | Concepts Covered | Link |
+| :--- | :--- | :--- | :--- | :--- |
+| **Pachinko** | picoCTF | Web Exploitation | Race Conditions, Node.js, Source Code Review | [View](./picoCTF/Web_Exploitation/Pachinko/) |
+
+---
+*Organized and maintained for continuous learning.*
