@@ -8,9 +8,9 @@ This repository serves as a personal knowledge base and a portfolio of my practi
 
 | Challenge / Lab | Platform | Category | Concepts Covered | Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Pachinko** | picoCTF | Web Exploitation | Race Conditions, Node.js, Source Code Review | [View](https://play.picoctf.org/practice?category=1&difficulty=2&page=1&search=pachinko) |
+| **Pachinko** | picoCTF | Web Exploitation | Race Conditions, Node.js, Source Code Review | [View](https://play.picoctf.org/practice/challenge/494?category=1&difficulty=2&page=1&search=) |
 | **Crack The Gate 2** | picoCTF | Web Exploitation | Rate Limit Bypass, HTTP Header Spoofing, Brute Force | [View](https://play.picoctf.org/practice/challenge/521?category=1&difficulty=2&page=1&search=) |
-| **byp4ss3d** | picoCTF | Web Exploitation | Unrestricted File Upload, RCE, Apache .htaccess | [View](./picoCTF/Web_Exploitation/byp4ss3d/) |
+| **byp4ss3d** | picoCTF | Web Exploitation | Unrestricted File Upload, RCE, Apache .htaccess | [View](https://play.picoctf.org/practice/challenge/518?category=1&difficulty=2&page=1&search=) |
 
 ---
 *Organized and maintained for continuous learning.*
