@@ -1,1 +1,16 @@
+# picoCTF Challenge Index
 
+Below is the documentation for the picoCTF challenges I have solved.
+
+## 🏆 Web Exploitation
+
+| Challenge / Lab | Platform | Category | Concepts Covered | Link |
+| :--- | :--- | :--- | :--- | :--- |
+| **Pachinko** | picoCTF | Web Exploitation | Race Conditions, Node.js, Source Code Review | [View](https://play.picoctf.org/practice/challenge/494) |
+| **Crack The Gate 2** | picoCTF | Web Exploitation | Rate Limit Bypass, HTTP Header Spoofing, Brute Force | [View](https://play.picoctf.org/practice/challenge/521) |
+| **byp4ss3d** | picoCTF | Web Exploitation | Unrestricted File Upload, RCE, Apache .htaccess | [View](https://play.picoctf.org/practice/challenge/518) |
+| **SOAP** | picoCTF | Web Exploitation | XML External Entity (XXE) Injection, API Security | [View](https://play.picoctf.org/practice/challenge/376) |
+| **No Sql Injection** | picoCTF | Web Exploitation | NoSQL Injection, MongoDB Query Operators | [View](https://play.picoctf.org/practice/challenge/443) |
+| **3v@l** | picoCTF | Web Exploitation | WAF / Regex Bypass, Base64 Encoding, Dynamic Code Execution | [View](https://play.picoctf.org/practice/challenge/484) |
+| **MatchTheRegex** | picoCTF | Web Exploitation | Info Disclosure, Static Analysis, Regex | [View](https://play.picoctf.org/practice/challenge/356) |
+| **More SQLi** | picoCTF | Web Exploitation | SQLite Injection, HTTP Redirect Analysis | [View](https://play.picoctf.org/practice/challenge/358) |
