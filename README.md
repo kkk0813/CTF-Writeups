@@ -15,6 +15,7 @@ This repository serves as a personal knowledge base and a portfolio of my practi
 | **No Sql Injection** | picoCTF | Web Exploitation | NoSQL Injection, MongoDB Query Operators | [View](https://play.picoctf.org/practice/challenge/443?category=1&difficulty=2&page=1&search=) |
 | **3v@l** | picoCTF | Web Exploitation | WAF / Regex Bypass, Base64 Encoding, Dynamic Code Execution | [View](https://play.picoctf.org/practice/challenge/484?category=1&difficulty=2&page=1&search=) |
 | **MatchTheRegex** | picoCTF | Web Exploitation | Info Disclosure, Static Analysis, Regex | [View](https://play.picoctf.org/practice/challenge/356?category=1&difficulty=2&page=1&search=) |
+| **More SQLi** | picoCTF | Web Exploitation | SQLite Injection, HTTP Redirect Analysis | [View](https://play.picoctf.org/practice/challenge/358?category=1&difficulty=2&page=1&search=) |
 
 ---
 *Organized and maintained for continuous learning.*
