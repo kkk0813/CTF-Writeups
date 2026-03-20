@@ -14,3 +14,4 @@ Below is the documentation for the picoCTF challenges I have solved.
 | **3v@l** | picoCTF | Web Exploitation | WAF / Regex Bypass, Base64 Encoding, Dynamic Code Execution | [View](https://play.picoctf.org/practice/challenge/484) |
 | **MatchTheRegex** | picoCTF | Web Exploitation | Info Disclosure, Static Analysis, Regex | [View](https://play.picoctf.org/practice/challenge/356) |
 | **More SQLi** | picoCTF | Web Exploitation | SQLite Injection, HTTP Redirect Analysis | [View](https://play.picoctf.org/practice/challenge/358) |
+| **No FA** | picoCTF | Web Exploitation | Session Flaws, Flask Cookie Decoding, Hash Cracking | [View](./picoCTF/Web_Exploitation/No_FA/) |
