@@ -6,12 +6,12 @@ Below is the documentation for the picoCTF challenges I have solved.
 
 | Challenge / Lab | Platform | Category | Concepts Covered | Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Pachinko** | picoCTF | Web Exploitation | Race Conditions, Node.js, Source Code Review | [View](https://play.picoctf.org/practice/challenge/494) |
-| **Crack The Gate 2** | picoCTF | Web Exploitation | Rate Limit Bypass, HTTP Header Spoofing, Brute Force | [View](https://play.picoctf.org/practice/challenge/521) |
-| **byp4ss3d** | picoCTF | Web Exploitation | Unrestricted File Upload, RCE, Apache .htaccess | [View](https://play.picoctf.org/practice/challenge/518) |
-| **SOAP** | picoCTF | Web Exploitation | XML External Entity (XXE) Injection, API Security | [View](https://play.picoctf.org/practice/challenge/376) |
-| **No Sql Injection** | picoCTF | Web Exploitation | NoSQL Injection, MongoDB Query Operators | [View](https://play.picoctf.org/practice/challenge/443) |
-| **3v@l** | picoCTF | Web Exploitation | WAF / Regex Bypass, Base64 Encoding, Dynamic Code Execution | [View](https://play.picoctf.org/practice/challenge/484) |
-| **MatchTheRegex** | picoCTF | Web Exploitation | Info Disclosure, Static Analysis, Regex | [View](https://play.picoctf.org/practice/challenge/356) |
-| **More SQLi** | picoCTF | Web Exploitation | SQLite Injection, HTTP Redirect Analysis | [View](https://play.picoctf.org/practice/challenge/358) |
-| **No FA** | picoCTF | Web Exploitation | Session Flaws, Flask Cookie Decoding, Hash Cracking | [View](./picoCTF/Web_Exploitation/No_FA/) |
+| **Pachinko** | picoCTF | Web Exploitation | Race Conditions, Node.js, Source Code Review | [View](./PicoCTF/Web_Exploitation/Pachinko/) |
+| **Crack The Gate 2** | picoCTF | Web Exploitation | Rate Limit Bypass, HTTP Header Spoofing, Brute Force | [View](./PicoCTF/Web_Exploitation/Crack_The_Gate_2/) |
+| **byp4ss3d** | picoCTF | Web Exploitation | Unrestricted File Upload, RCE, Apache .htaccess | [View](./PicoCTF/Web_Exploitation/byp4ss3d/) |
+| **SOAP** | picoCTF | Web Exploitation | XML External Entity (XXE) Injection, API Security | [View](./PicoCTF/Web_Exploitation/SOAP/) |
+| **No Sql Injection** | picoCTF | Web Exploitation | NoSQLi, Authentication Bypass, Base64 | [View](./PicoCTF/Web_Exploitation/No_Sql_Injection/) |
+| **3v@l** | picoCTF | Web Exploitation | Command Injection, Python `eval()`, WAF Bypass | [View](./PicoCTF/Web_Exploitation/3v@l/) |
+| **MatchTheRegex** | picoCTF | Web Exploitation | Info Disclosure, Static Analysis, Regex | [View](./PicoCTF/Web_Exploitation/MatchTheRegex/) |
+| **More SQLi** | picoCTF | Web Exploitation | SQLite Injection, HTTP Redirect Analysis | [View](./PicoCTF/Web_Exploitation/More_SQLi/) |
+| **No FA** | picoCTF | Web Exploitation | Session Flaws, Flask Cookie Decoding, Hash Cracking | [View](./PicoCTF/Web_Exploitation/No_FA/) |
