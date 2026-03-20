@@ -29,5 +29,4 @@ By injecting the username field and immediately commenting out the rest of the q
 * **Resulting Query:** `SELECT * FROM users WHERE username = 'administrator'--' AND password = '...'`
 
 ## 📸 Proof of Concept
-*(Add your screenshot showing the successful login as administrator here)*
 ![Login Bypass Execution](./images/sqli-login-bypass.png)
