@@ -15,4 +15,4 @@ Below is the documentation for the picoCTF challenges I have solved.
 | **MatchTheRegex** | picoCTF | Web Exploitation | Info Disclosure, Static Analysis, Regex | [View](./PicoCTF/Web_Exploitation/MatchTheRegex/) |
 | **More SQLi** | picoCTF | Web Exploitation | SQLite Injection, HTTP Redirect Analysis | [View](./PicoCTF/Web_Exploitation/More_SQLi/) |
 | **No FA** | picoCTF | Web Exploitation | Session Flaws, Flask Cookie Decoding, Hash Cracking | [View](./PicoCTF/Web_Exploitation/No_FA/) |
-| **Secret Box** | picoCTF | Web Exploitation | PostgreSQL, Subquery Injection, Code Review | [View](./picoCTF/Web_Exploitation/Secret_Box/) |
+| **Secret Box** | picoCTF | Web Exploitation | PostgreSQL, Subquery Injection, Code Review | [View](./PicoCTF/Web_Exploitation/Secret_Box/) |
