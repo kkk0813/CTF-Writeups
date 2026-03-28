@@ -17,3 +17,4 @@ Below is the documentation for the picoCTF challenges I have solved.
 | **No FA** | picoCTF | Web Exploitation | Session Flaws, Flask Cookie Decoding, Hash Cracking | [View](./PicoCTF/Web_Exploitation/No_FA/) |
 | **Secret Box** | picoCTF | Web Exploitation | PostgreSQL, Subquery Injection, Code Review | [View](./PicoCTF/Web_Exploitation/Secret_Box/) |
 | **JAuth** |	picoCTF |	Web Exploitation |	JWT alg: none Exploit, Burp Suite | [View](./PicoCTF/Web_Exploitation/JAuth/) |
+| **SQLiLite** |	picoCTF |	Web Exploitation |	SQLite Injection, Response Inspection | [View](./PicoCTF/Web_Exploitation/SQLiLite/) |
