@@ -19,3 +19,4 @@ Below is the documentation for the picoCTF challenges I have solved.
 | **JAuth** |	picoCTF |	Web Exploitation |	JWT alg: none Exploit, Burp Suite | [View](./PicoCTF/Web_Exploitation/JAuth/) |
 | **SQLiLite** |	picoCTF |	Web Exploitation |	SQLite Injection, Response Inspection | [View](./PicoCTF/Web_Exploitation/SQLiLite/) |
 | **Fool the Lockout** | picoCTF | Web Exploitation | Rate Limit Logic Flaws, Python Scripting | [View](./PicoCTF/Web_Exploitation/Fool_the_Lockout/) |
+| **SSTI2** | picoCTF | Web Exploitation | SSTI, Jinja2, Hex encoding, RCE | [View](./PicoCTF/Web_Exploitation/SSTI2/) |
