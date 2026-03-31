@@ -25,8 +25,4 @@ I targeted the `category` parameter and incrementally added `NULL` values to the
    * Result: The application loaded successfully, returning an additional row containing empty (null) data. This confirms the original query returns exactly 3 columns.
 
 ## 📸 Proof of Concept
-*(Add your screenshot showing the successful page load with the 3 NULL payload here)*
-![Determining Column Count](./images/sqli-determine-columns.png)
-## 📸 Proof of Concept
-*(Add your screenshot showing the successful page load with the 3 NULL payload here)*
 ![Determining Column Count](./images/sqli-determine-columns.png)
