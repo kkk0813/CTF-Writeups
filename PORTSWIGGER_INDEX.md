@@ -13,6 +13,7 @@ Below is the documentation for my practical web application testing labs.
 | **SQLi DB Contents** | PortSwigger | SQL Injection | Information Schema, DB Enumeration, Data Exfiltration | [View](./PortSwigger_Web_Academy/SQL_Injection/lab-05-listing-database-contents.md) |
 | **SQLi Oracle DB Contents** | PortSwigger | SQL Injection | Oracle System Views (`all_tables`), Data Exfiltration | [View](./PortSwigger_Web_Academy/SQL_Injection/lab-06-listing-oracle-databases.md) |
 | **SQLi Column Count** | PortSwigger | SQL Injection | UNION Attacks, Column Enumeration, Error Inference | [View](./PortSwigger_Web_Academy/SQL_Injection/lab-07-determine-number-of-columns.md) |
+| **SQLi Text Column** | PortSwigger | SQL Injection | UNION Attacks, Data Type Probing, String Injection | [View](./PortSwigger_Web_Academy/SQL_Injection/lab-08-finding-text-columns.md) |
 
 ---
 *Organized and maintained for continuous learning.*
