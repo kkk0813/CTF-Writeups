@@ -30,5 +30,4 @@ I tested each of the three columns to see which one could accept the required ta
 * **Result:** The page loaded successfully and displayed the string `TiMlUd` inside the HTML response, proving the second column is compatible with string data and solving the lab.
 
 ## 📸 Proof of Concept
-*(Add your screenshot showing the string TiMlUd rendered on the page here)*
 ![Finding Text Columns](./images/sqli-find-text-columns.png)
