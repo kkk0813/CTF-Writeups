@@ -34,9 +34,9 @@ Because Burp Suite Community Edition heavily throttles Intruder attacks, brute-f
 import requests
 import sys
 
-url = "https://0a49009c04e3b6588429aa8700be007e.web-security-academy.net/"
-session_cookie = "yqj1oAZhxKEugHbpPZASZvVQQMLJmNMp"
-tracking_id = "cSP0LHogRDUScWhr"
+url = "https://[LAB_ID].web-security-academy.net/"
+session_cookie = "[your_session_cookie]"
+tracking_id = "[your_tracking_id]"
 charset = "abcdefghijklmnopqrstuvwxyz0123456789"
 password = ""
 
