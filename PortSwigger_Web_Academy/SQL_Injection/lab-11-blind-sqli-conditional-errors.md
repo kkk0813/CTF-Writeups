@@ -58,4 +58,4 @@ print(f"[+] Administrator Password: {password}")
 ```
 
 ### Step 3: Login
-Result: The script successfully triggered the conditional errors and extracted the password: oz2dio60vicgsk4xtoer. Logging in with these credentials solved the lab.
+Result: The script successfully triggered the conditional errors and extracted the password: `oz2dio60vicgsk4xtoer`. Logging in with these credentials solved the lab.
