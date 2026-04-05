@@ -15,6 +15,7 @@ Below is the documentation for my practical web application testing labs.
 | **SQLi Column Count** | PortSwigger | SQL Injection | UNION Attacks, Column Enumeration, Error Inference | [View](./PortSwigger_Web_Academy/SQL_Injection/lab-07-determine-number-of-columns.md) |
 | **SQLi Text Column** | PortSwigger | SQL Injection | UNION Attacks, Data Type Probing, String Injection | [View](./PortSwigger_Web_Academy/SQL_Injection/lab-08-finding-text-columns.md) |
 | **SQLi Single Column Dump** | PortSwigger | SQL Injection | UNION Attacks, String Concatenation (`\|\|`) | [View](./PortSwigger_Web_Academy/SQL_Injection/lab-09-multiple-values-single-column.md) |
+| **Blind SQLi Conditional** | PortSwigger | SQL Injection | Boolean Inference, Custom Python Scripting | [View](./PortSwigger_Web_Academy/SQL_Injection/lab-10-blind-sqli-conditional-responses.md) |
 
 ---
 *Organized and maintained for continuous learning.*
