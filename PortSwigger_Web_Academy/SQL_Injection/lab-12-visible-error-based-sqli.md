@@ -16,11 +16,12 @@ To exfiltrate data, I can use an error-based technique called **Type Conversion*
 
 ### Step 1: Navigating Input Limits
 My initial payload (`TrackingId=HZJktmGWrn4AO4fe' AND 1=CAST((SELECT username FROM users) AS int)--`) resulted in a truncation error. The server cut off the payload before the `--` comment, indicating a maximum length limit on the cookie.
-* **Bypass:** I removed the original tracking ID string entirely to ensure the payload fit within the character limits: `TrackingId=' AND 1=CAST(...)--`
+* **Bypass:** I removed the original tracking ID string entirely to ensure the payload fit within the character limits: `TrackingId=' AND 1=CAST((SELECT username FROM users) AS int)--`
 
 ### Step 2: Fixing the Scalar Subquery
 Executing the shortened payload resulted in a new error: `more than one row returned by a subquery`. The `CAST` function requires a single value, but `SELECT username` was returning all users.
 * **Bypass:** I appended `LIMIT 1` to ensure the subquery only returned the first row (the administrator).
+We also can use `TrackingId=' AND 1=CAST((SELECT username FROM users LIMIT 1) AS int)--` to verify the first row is `administrator`.
 
 ### Step 3: Data Exfiltration
 I updated the subquery to target the `password` column instead of the username, passing the single string value into the `CAST` function.
