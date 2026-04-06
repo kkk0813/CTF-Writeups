@@ -20,4 +20,4 @@ Below is the documentation for the picoCTF challenges I have solved.
 | **SQLiLite** |	picoCTF |	Web Exploitation |	SQLite Injection, Response Inspection | [View](./PicoCTF/Web_Exploitation/SQLiLite/) |
 | **Fool the Lockout** | picoCTF | Web Exploitation | Rate Limit Logic Flaws, Python Scripting | [View](./PicoCTF/Web_Exploitation/Fool_the_Lockout/) |
 | **SSTI2** | picoCTF | Web Exploitation | SSTI, Jinja2, Hex encoding, RCE | [View](./PicoCTF/Web_Exploitation/SSTI2/) |
-| **SSTI2** | picoCTF | Web Exploitation | Unrestricted File Upload, Magic Byte Spoofing (Polyglot Files), Web Shells, Remote Code Execution (RCE) | [View](./PicoCTF/Web_Exploitation/Trickster/) |
+| **Trickster** | picoCTF | Web Exploitation | Unrestricted File Upload, Magic Byte Spoofing (Polyglot Files), Web Shells, Remote Code Execution (RCE) | [View](./PicoCTF/Web_Exploitation/Trickster/) |
