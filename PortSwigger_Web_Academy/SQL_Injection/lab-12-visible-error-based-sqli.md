@@ -10,7 +10,7 @@ The application contains a SQL injection vulnerability in the tracking cookie. W
 ## 🕵️‍♂️ Analysis
 During the initial discovery phase, appending a single quote (`'`) to the `TrackingId` cookie resulted in an `Unterminated string literal` error, proving that verbose database errors are enabled. 
 
-To exfiltrate data, I can use an error-based technique called **Type Conversion**. By forcing the database to cast a string value (like a password) into an integer, the database will throw an `invalid input syntax` error and helpfully include the string it failed to convert inside the error message.
+To exfiltrate data, I can use an error-based technique called **Type Conversion** or converting data types. By forcing the database to cast a string value (like a password) into an integer, the database will throw an `invalid input syntax` error and helpfully include the string it failed to convert inside the error message.
 
 ## 🚀 Payload & Execution
 
