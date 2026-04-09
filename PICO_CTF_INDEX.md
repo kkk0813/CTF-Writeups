@@ -2,7 +2,7 @@
 
 Below is the documentation for the picoCTF challenges I have solved.
 
-## 🏆 Web Exploitation
+## Web Exploitation
 
 | Challenge / Lab | Platform | Category | Concepts Covered | Link |
 | :--- | :--- | :--- | :--- | :--- |
