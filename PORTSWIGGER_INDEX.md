@@ -2,7 +2,7 @@
 
 Below is the documentation for my practical web application testing labs.
 
-## 🏆 Challenge Index
+## Challenge Index
 
 | Challenge / Lab | Platform | Category | Concepts Covered | Link |
 | :--- | :--- | :--- | :--- | :--- |
