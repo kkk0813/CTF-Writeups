@@ -19,6 +19,7 @@ Below is the documentation for my practical web application testing labs.
 | **SQLi Conditional Errors**| PortSwigger | SQL Injection | Error-Based Inference (`1/0`), Oracle Syntax | [View](./PortSwigger_Web_Academy/SQL_Injection/lab-11-blind-sqli-conditional-errors.md) |
 | **Visible Error SQLi** | PortSwigger | SQL Injection | Type Conversion Errors (`CAST`), Input Limits, `LIMIT` | [View](./PortSwigger_Web_Academy/SQL_Injection/lab-12-visible-error-based-sqli.md) |
 | **Blind SQLi Time Delay** | PortSwigger | SQL Injection | Time-Based Inference, PostgreSQL (`pg_sleep`), Concatenation | [View](./PortSwigger_Web_Academy/SQL_Injection/lab-13-blind-sqli-time-delays.md) |
+| **Blind SQLi Time Retrieval**| PortSwigger | SQL Injection | Time-Based Inference, Custom Python Scripting | [View](./PortSwigger_Web_Academy/SQL_Injection/lab-14-blind-sqli-time-delays-retrieval.md) |
 
 ---
 *Organized and maintained for continuous learning.*
