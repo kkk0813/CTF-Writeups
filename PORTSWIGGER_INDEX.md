@@ -20,6 +20,7 @@ Below is the documentation for my practical web application testing labs.
 | **Visible Error SQLi** | PortSwigger | SQL Injection | Type Conversion Errors (`CAST`), Input Limits, `LIMIT` | [View](./PortSwigger_Web_Academy/SQL_Injection/lab-12-visible-error-based-sqli.md) |
 | **Blind SQLi Time Delay** | PortSwigger | SQL Injection | Time-Based Inference, PostgreSQL (`pg_sleep`), Concatenation | [View](./PortSwigger_Web_Academy/SQL_Injection/lab-13-blind-sqli-time-delays.md) |
 | **Blind SQLi Time Retrieval**| PortSwigger | SQL Injection | Time-Based Inference, Custom Python Scripting | [View](./PortSwigger_Web_Academy/SQL_Injection/lab-14-blind-sqli-time-delays-retrieval.md) |
+| **SQLi WAF Bypass (XML)**| PortSwigger | SQL Injection | WAF Evasion, XML Hex Entity Encoding, Parser Discrepancy | [View](./PortSwigger_Web_Academy/SQL_Injection/lab-15-sqli-filter-bypass-xml-encoding.md) |
 
 ---
 *Organized and maintained for continuous learning.*
