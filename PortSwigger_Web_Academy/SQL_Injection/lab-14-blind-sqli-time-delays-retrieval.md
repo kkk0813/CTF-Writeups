@@ -63,4 +63,4 @@ print(f"[+] Administrator Password: {password}")
 Result: The script successfully forced the time delays and extracted the password: `4n1lxfm5x8962omqjrb1`. Logging in with these credentials solved the lab.
 
 ## 📸 Proof of Concept
-![Time Delay Execution Extraction](./images/sqli-time-delay-extraction.png)
+![SQLi_via_XML Encoding](./images/sqli_xml_encoding.png)
