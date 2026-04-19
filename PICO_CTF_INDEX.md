@@ -23,3 +23,4 @@ Below is the documentation for the picoCTF challenges I have solved.
 | **Trickster** | picoCTF | Web Exploitation | Unrestricted File Upload, Magic Byte Spoofing (Polyglot Files), Web Shells, Remote Code Execution (RCE) | [View](./PicoCTF/Web_Exploitation/Trickster/) |
 | **Secrets** | picoCTF | Web Exploitation | Source Code Review, Information Disclosure, Security through Obscurity, Manual Spidering | [View](./PicoCTF/Web_Exploitation/Secrets/) |
 | **findme** | picoCTF | Web Exploitation | Traffic Interception, HTTP Redirects (302), Information Disclosure, Base64 Encoding | [View](./PicoCTF/Web_Exploitation/findme/) |
+| **Forbidden Paths** | picoCTF | Web Exploitation | Directory Traversal, Path Traversal, Input Validation Bypass, Absolute vs. Relative Paths | [View](./PicoCTF/Web_Exploitation/Forbidden_Paths/) |
