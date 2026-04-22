@@ -24,3 +24,4 @@ Below is the documentation for the picoCTF challenges I have solved.
 | **Secrets** | picoCTF | Web Exploitation | Source Code Review, Information Disclosure, Security through Obscurity, Manual Spidering | [View](./PicoCTF/Web_Exploitation/Secrets/) |
 | **findme** | picoCTF | Web Exploitation | Traffic Interception, HTTP Redirects (302), Information Disclosure, Base64 Encoding | [View](./PicoCTF/Web_Exploitation/findme/) |
 | **Forbidden Paths** | picoCTF | Web Exploitation | Directory Traversal, Path Traversal, Input Validation Bypass, Absolute vs. Relative Paths | [View](./PicoCTF/Web_Exploitation/Forbidden_Paths/) |
+| **Power Cookie** | picoCTF | Web Exploitation | Broken Access Control, Cookie Manipulation, Client-Side State, Trust Boundaries | [View](./PicoCTF/Web_Exploitation/Power_Cookie/) |
