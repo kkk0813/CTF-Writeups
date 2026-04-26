@@ -31,8 +31,8 @@ Because the `query` variable is concatenated directly into an HTML string and wr
 
 ### Execution Steps:
   1. I entered a test string (`test`) into the search box to observe how the application handles the input.
-  2. Using the browser's Developer Tools (Inspect Element), I saw the input was placed inside the `src` attribute of an `<img>` tag:
-     `<img src="/resources/images/tracker.gif?searchTerms=test1234">`
+  2. Using the browser's Developer Tools (Inspect Element), I saw the input was placed inside the `src` attribute of an `<img>` tag:  
+     `<img src="/resources/images/tracker.gif?searchTerms=test">`
   3. To achieve execution, I crafted a payload to escape the attribute and tag context:
        - `">` : Closes the src attribute and the `<img>` tag.
        - `<svg onload=alert(1)>` : Introduces a new, valid HTML element that automatically executes JavaScript when it loads.
