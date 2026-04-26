@@ -9,7 +9,7 @@ This repository serves as a personal knowledge base and a portfolio of my practi
 I maintain detailed, step-by-step documentation for the platforms I practice on:
 
 * **[picoCTF Write-ups](./PicoCTF/Web_Exploitation/README.md):** Gamified challenges focusing on web exploitation, scripting, and general security concepts.
-* **[PortSwigger Web Academy](.PortSwigger_Web_Academy/):** Real-world web application vulnerabilities exploited using manual testing and Burp Suite.
+* **[PortSwigger Web Academy](./PortSwigger_Web_Academy/):** Real-world web application vulnerabilities exploited using manual testing and Burp Suite.
 
 ---
 *Organized and maintained for continuous learning.*
