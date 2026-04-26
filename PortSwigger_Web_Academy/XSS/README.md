@@ -7,6 +7,8 @@ Below is the documentation for my practical web application testing labs.
 | Challenge / Lab | Platform | Category | Concepts Covered | Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **Reflected XSS (Basic)** | PortSwigger | XSS | HTML Context, No Encoding | [View](./lab-01-reflected-xss-nothing-encoded.md) |
+| **Stored XSS (Basic)** | PortSwigger | XSS | Persistent, HTML Context, No Encoding | [View](./lab-02-stored-xss-nothing-encoded.md) |
+| **DOM XSS (document.write)** | PortSwigger | XSS | DOM-Based, Attribute Breakout, `location.search` | [View](./lab-03-dom-xss-document-write.md) |
 
 ---
 *Organized and maintained for continuous learning.*
