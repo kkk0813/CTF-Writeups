@@ -36,6 +36,6 @@ Because the `query` variable is concatenated directly into an HTML string and wr
   3. To achieve execution, I crafted a payload to escape the attribute and tag context:
        - `">` : Closes the src attribute and the `<img>` tag.
        - `<svg onload=alert(1)>` : Introduces a new, valid HTML element that automatically executes JavaScript when it loads.
-  4. Submitting this payload resulted in the following HTML being written to the DOM by `document.write`:
+  4. Submitting this payload resulted in the following HTML being written to the DOM by `document.write`:  
      `<img src="/resources/images/tracker.gif?searchTerms="><svg onload=alert(1)>">`
   5. The browser rendered the SVG image, immediately triggering the `alert(1)` popup and solving the lab.
