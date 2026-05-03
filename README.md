@@ -4,7 +4,7 @@ Welcome to my central repository for Capture The Flag (CTF) write-ups, vulnerabi
 
 This repository serves as a personal knowledge base and a portfolio of my practical experience in identifying, exploiting, and mitigating security vulnerabilities across different domains. 
 
-## 📂 Challenge Indexes
+## Challenge Indexes
 
 I maintain detailed, step-by-step documentation for the platforms I practice on:
 
