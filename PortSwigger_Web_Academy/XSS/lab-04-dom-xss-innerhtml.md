@@ -34,9 +34,3 @@ Because the input is passed to `innerHTML`, standard `<script>` tags will not ex
 3. The application's JavaScript passed the payload to the `innerHTML` sink, rendering the `<img>` tag on the page.
 4. The browser attempted to fetch the image source `1`. 
 5. When the fetch failed, the `onerror` event triggered automatically, executing the `alert(1)` JavaScript and solving the lab.
-
-## Proof of Concept
-![DOM XSS innerHTML](./images/xss-dom-innerhtml.png)
-```markdown
-| **DOM XSS (innerHTML)** | PortSwigger | XSS | DOM-Based, Event Handlers (`onerror`), HTML5 `<script>` Restriction | [View](./PortSwigger_Web_Academy/XSS/lab-04-dom-xss-innerhtml.md) |
-```
