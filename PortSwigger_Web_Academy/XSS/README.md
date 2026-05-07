@@ -10,6 +10,7 @@ Below is the documentation for my practical web application testing labs.
 | **Stored XSS (Basic)** | PortSwigger | XSS | Persistent, HTML Context, No Encoding | [View](./lab-02-stored-xss-nothing-encoded.md) |
 | **DOM XSS (document.write)** | PortSwigger | XSS | DOM-Based, Attribute Breakout, `location.search` | [View](./lab-03-dom-xss-document-write.md) |
 | **DOM XSS (innerHTML)** | PortSwigger | XSS | DOM-Based, Event Handlers (`onerror`), HTML5 `<script>` Restriction | [View](./lab-04-dom-xss-innerhtml.md) |
+| **DOM XSS (jQuery href)** | PortSwigger | XSS | DOM-Based, `href` attribute sink, `javascript:` protocol | [View](./lab-05-dom-xss-jquery-href.md) |
 
 ---
 *Organized and maintained for continuous learning.*
