@@ -10,6 +10,7 @@ I maintain detailed, step-by-step documentation for the platforms I practice on:
 
 * **[picoCTF Write-ups](./PicoCTF/Web_Exploitation/README.md):** Gamified challenges focusing on web exploitation, scripting, and general security concepts.
 * **[PortSwigger Web Academy](./PortSwigger_Web_Academy/):** Real-world web application vulnerabilities exploited using manual testing and Burp Suite.
+* **[Hack The Box](./HackTheBox/Hardware/README.md):** Hands-on hardware and systems challenges, including chip logic analysis and hardware trojan discovery via VHDL.
 
 ---
 *Organized and maintained for continuous learning.*
