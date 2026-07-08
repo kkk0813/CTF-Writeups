@@ -1,8 +1,8 @@
 # It's Oops PM
 
-**Platform:** Hack The Box (CTF Try Out)
-**Category:** Hardware
-**Difficulty:** Very Easy
+**Platform:** Hack The Box (CTF Try Out)  
+**Category:** Hardware  
+**Difficulty:** Very Easy  
 **Concepts:** Hardware Trojan, Backdoor Logic, VHDL, Multiplexer (MUX), Crypto-Processor / TPM
 
 ## Objective
