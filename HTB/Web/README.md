@@ -1,6 +1,6 @@
-# Hack The Box Labs (Hardware)
+# Hack The Box Labs (Web)
 
-Below is the documentation for my practical hardware security challenges.
+Below is the documentation for my practical web security challenges.
 
 ## Challenge Index
 
