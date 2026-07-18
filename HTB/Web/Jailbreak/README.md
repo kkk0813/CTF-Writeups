@@ -83,4 +83,4 @@ To stop XXE, the fix is on the parser, not the input:
 4. **Prefer safer formats** like JSON for config input when XML features are not actually needed.
 
 ## Related Write-ups
-* [picoCTF – SOAP](../../PicoCTF/Web_Exploitation/SOAP/) — the same XXE technique in a different wrapper. The `DOCTYPE` / `ENTITY` / `&entity;` pattern is identical.
+* [picoCTF – SOAP](../../../PicoCTF/Web_Exploitation/SOAP/) — the same XXE technique in a different wrapper. The `DOCTYPE` / `ENTITY` / `&entity;` pattern is identical.
