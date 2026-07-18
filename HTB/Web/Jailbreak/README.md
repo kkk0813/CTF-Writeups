@@ -8,15 +8,13 @@
 ## Objective
 A "Firmware Update" page accepts an **XML configuration file** and parses it on the server. The goal is to abuse how the server reads that XML to make it open a file it should not — `/flag.txt` — and print the contents back to us.
 
-## Background (for anyone new to XXE)
+## Background
 A few ideas to know before the walkthrough:
 
 * **XML** is a way to write structured data using tags, like `<Version>1.33.7</Version>`. Many systems accept XML config files.
 * An **entity** in XML is like a variable. You define it once, then reuse it by writing `&name;`, and the parser swaps in its value.
 * The dangerous part: an entity can be told to get its value from a **file on the server** using `SYSTEM "file:///..."`. If the server's XML reader allows this (many do by default), you can make it read secret files.
 * This whole attack is called **XXE — XML External Entity injection.**
-
-If this feels familiar, it should: this is the same core bug as the picoCTF **SOAP** challenge in this repo. Only the wrapper looks different.
 
 ## Analysis
 The page is themed like a Fallout "Pip-Boy" device — health bar, tabs, music — but almost all of that is decoration. The only part that matters is one hint and one input box:
@@ -56,7 +54,7 @@ After clicking **Submit**, the page displayed the file contents in place of the 
 Firmware version HTB{b1om3tr1c_l0cks_4nd_fl1cker1ng_l1ghts_7110f9bdcd2f82053450a433367470ae} update initiated.
 ```
 
-> **Tip:** submitting through the browser worked here, but capturing the request in **Burp** or resending with `curl` (with `Content-Type: application/xml`) shows the raw response more clearly — the same approach used in the SOAP writeup.
+> **Tip:** submitting through the browser worked here, but capturing the request in **Burp** or resending with `curl` (with `Content-Type: application/xml`) shows the raw response more clearly.
 
 ## Why It Works
 The server's XML parser has **external entities turned on**. That means when it sees an entity defined with `SYSTEM "file:///flag.txt"`, it happily opens that file and uses its contents as the entity's value — no permission check, no questions asked.
